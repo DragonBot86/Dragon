@@ -95,7 +95,7 @@ const {
 
 /******INICIO DE FUNCIONES ENTRADA******/
 
-/******ARCHIVOS ANTILINK POR OCHOA******/
+/******ARCHIVOS ANTILINK POR DRAGÓN******/
 
 const antilink = JSON.parse(fs.readFileSync('./src/antilink.json'))
 const antiface = JSON.parse(fs.readFileSync('./src/antiface.json'))
